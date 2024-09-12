@@ -7,5 +7,5 @@ Réussir a prédire le temps de Réponse de la Brigade des Pompiers de Londres
 - fichier https://data.london.gov.uk/dataset/london-fire-brigade-incident-records 
 - fichier https://data.london.gov.uk/dataset/london-fire-brigade-mobilisation-records
 
-* Les deux fichiers sont disponibles sur le site: data.london.gov.uk
+Les deux fichiers sont disponibles sur le site: data.london.gov.uk
 
