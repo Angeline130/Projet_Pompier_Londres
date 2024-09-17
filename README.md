@@ -12,31 +12,32 @@ Les deux fichiers sont disponibles sur le site: data.london.gov.uk
 ## Analyse des jeux de données
 ### - London-fire-brigade-incident-records
 #### DataFrame de 21 colonnes et de ..........lignes.
-* Colonnes: IncidentNumber
-* DateOfCall
-* CalYear
-* TimeOfCall
-* HourOfCall
-* IncidentGroup
+#### Les variables sont:
+* IncidentNumber: Numéro d'incident
+* DateOfCall: Date de l'appel
+* CalYear: Année de l'appel
+* TimeOfCall: 
+* HourOfCall: Heure de l'appel
+* IncidentGroup: Catégorie de l'incident
 * StopCodeDescription
-* SpecialServiceType
+* SpecialServiceType: description pour la catégorie SpecialService
 * PropertyCategory
 * PropertyType	
-* FirstPumpArriving_AttendanceTime
+* FirstPumpArriving_AttendanceTime :
 * FirstPumpArriving_DeployedFromStation
 * SecondPumpArriving_AttendanceTime
 * SecondPumpArriving_DeployedFromStation
 * NumStationsWithPumpsAttending
-NumPumpsAttending	PumpCount
-PumpMinutesRounded
-Notional Cost (£)
-NumCalls
+* NumPumpsAttending	PumpCount
+* PumpMinutesRounded
+* Notional Cost (£): Coût
+* NumCalls: Nombre d'appel
 
 
 ### - London-fire-brigade-mobilisation-records
 #### DataFrame de 21 colonnes et de ..............lignes.**
 #### Les variables sont:
-*  IncidentNumber": "Numéro d'incident
+*  IncidentNumber: Numéro d'incident
 *  CalYear : Année de l'appel
 * HourOfCall: Heure de l'appel
 * ResourceMobilisationId: 
@@ -60,4 +61,7 @@ NumCalls
 * DelayCode_Description: Raisons du retard
 
 
-  ## Fusion des deux Dataframes 
+  ## Fusion des deux Dataframes
+  ## Analyse de nos données
+  ## Visualisation
+  ## Modélisation  
