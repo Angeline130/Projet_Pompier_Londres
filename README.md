@@ -24,9 +24,9 @@ Les deux fichiers sont disponibles sur le site: data.london.gov.uk
 * PropertyCategory
 * PropertyType	
 * FirstPumpArriving_AttendanceTime :
-* FirstPumpArriving_DeployedFromStation
+* FirstPumpArriving_DeployedFromStation: Nom de la station qui envoie le premier camion
 * SecondPumpArriving_AttendanceTime
-* SecondPumpArriving_DeployedFromStation
+* SecondPumpArriving_DeployedFromStation: Nom de la station qui envoie le second camion
 * NumStationsWithPumpsAttending
 * NumPumpsAttending	PumpCount
 * PumpMinutesRounded
