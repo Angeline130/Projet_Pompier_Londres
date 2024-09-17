@@ -10,9 +10,9 @@ Réussir à prédire le temps de Réponse de la Brigade des Pompiers de Londres
 Les deux fichiers sont disponibles sur le site: data.london.gov.uk
 
 ## Analyse des jeux de données
-### - London-fire-brigade-incident-records
-#### DataFrame de 21 colonnes et de ..........lignes.
-#### Les variables sont:
+##### - London-fire-brigade-incident-records
+###### DataFrame de 21 colonnes et de ..........lignes.
+##### Les variables sont:
 * IncidentNumber: Numéro d'incident
 * DateOfCall: Date de l'appel
 * CalYear: Année de l'appel
@@ -34,9 +34,9 @@ Les deux fichiers sont disponibles sur le site: data.london.gov.uk
 * NumCalls: Nombre d'appel
 
 
-### - London-fire-brigade-mobilisation-records
-#### DataFrame de 21 colonnes et de ..............lignes.**
-#### Les variables sont:
+##### - London-fire-brigade-mobilisation-records
+###### DataFrame de 21 colonnes et de ..............lignes.**
+##### Les variables sont:
 *  IncidentNumber: Numéro d'incident
 *  CalYear : Année de l'appel
 * HourOfCall: Heure de l'appel
