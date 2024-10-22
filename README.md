@@ -1,7 +1,12 @@
-# Projet_Pompier_Londres
+# Projet: Analyse du Temps de Réponse de la Brigade des Pompiers de Londres
 
-## Objectif du travail: 
-Réussir à prédire le temps de Réponse de la Brigade des Pompiers de Londres
+## Contexte
+Ce projet a été réalisé dans le but d'analyser les temps de réponse de la London Fire Brigade (Brigade des Pompiers de Londres), l'un des plus grands corps de pompiers au monde. L'objectif principal est de comprendre les facteurs influençant les délais d'intervention et de prédire le temps que les pompiers mettent pour arriver sur les lieux des incidents. Nous avons utilisé des données publiques sur les incidents de 2017 à 2022.
+
+## Objectifs du projet
+*Analyse exploratoire des données : Identifier les variables influentes.
+*Prédiction des délais d'intervention : Modélisation par régression pour prédire le délai en secondes.
+*Classification des délais d'intervention : Modélisation par classification pour catégoriser les délais (court ou long).
 
 ## Jeux de Données:
 - fichier https://data.london.gov.uk/dataset/london-fire-brigade-incident-records 
