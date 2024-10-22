@@ -13,7 +13,8 @@ Les données proviennent de deux fichiers disponibles sur le site de la London F
 
 * Incident data : Données sur les incidents (incendies, fausses alertes, etc.).
 * Mobilisation data : Informations sur le déploiement des unités de secours.
-Les données contiennent plus de 940 000 incidents et sont décrites par 58 variables. Après un nettoyage et une fusion des données, nous avons conservé 44 variables pertinentes pour nos analyses.
+  
+Les données contiennent **plus de 940 000 incidents** et sont décrites par **58 variables**. Après un nettoyage et une fusion des données, nous avons conservé **44 variables** pertinentes pour nos analyses.
 
 Les deux fichiers sont disponibles sur le site: data.london.gov.uk
 
